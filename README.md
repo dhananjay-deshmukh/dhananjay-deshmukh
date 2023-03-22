@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend development with DRF**
 
-- 📫 How to reach me **dgdeshmukh2002@gmail.com**
+- 📫 reach me at **dgdeshmukh2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
