@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
 <h3 align="center">🔭Exploring and experimenting with deep learning.</h3>
 
+
 - 🌱 I’m currently learning **Backend development with DRF**
 
 - 📫 reach me at **dgdeshmukh2002@gmail.com**
@@ -15,4 +16,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjay-deshmukh&show_icons=true&locale=en&layout=compact" alt="dhananjay-deshmukh" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay-deshmukh&" alt="dhananjay-deshmukh" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay-deshmukh&" alt="dhananjay-deshmukh" /></p> -->
