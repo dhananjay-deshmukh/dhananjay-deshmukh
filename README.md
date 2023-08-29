@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
-<h3 align="center">🔭Exploring and experimenting with deep learning.</h3>
+<h3 align="center">🔭Deep Learning and Backend Development with Django Rest Framework</h3>
 
 
-- 🌱 I’m currently learning **Backend development with DRF**
+
 
 - 📫 reach me at **dgdeshmukh2002@gmail.com**
 
